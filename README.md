@@ -1,8 +1,20 @@
-# Bookstore
+# 📚 Bookstore
+
+**Bookstore** is an e-commerce web application built with Django that allows users to browse, purchase, and manage books online. It includes secure payment integration using Stripe and supports email notifications for order confirmations and other actions.
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to set up the project on your local machine.
+
+---
+
 
 1. Take clone of the project 
     ``` bash
    git clone  https://github.com/Mansi-S117/Bookstore.git
+    cd Bookstore
     ```
 2. Create and activate virtual environment
    ```bash 
